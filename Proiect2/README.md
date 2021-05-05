@@ -57,13 +57,16 @@ We ant to eliminate the state *q* and there are the transitions tr(p,q), tr(q,s)
 Then we will have a new transition from the state *p* to the state *s* : the union between the direct transition tr(p,s) or Ø if there is no thansition and the concatenation
 of the transactions tr(p,q), tr(q,q)* and tr(q,s)
 
-## Exemples
+# Exemples
 
-- Exemple 1
+## Exemple 1
+
 <img src="https://github.com/PaulaB03/Limbaje-formale-si-automate/blob/master/Proiect2/Exemples/Exemple1.jpg">
 
-- Exemple 2
+## Exemple 2
+
 <img src="https://github.com/PaulaB03/Limbaje-formale-si-automate/blob/master/Proiect2/Exemples/Exemple2.jpg">
 
-- Exemple 3
+## Exemple 3
+
 <img src="https://github.com/PaulaB03/Limbaje-formale-si-automate/blob/master/Proiect2/Exemples/Exemple3.jpg">
