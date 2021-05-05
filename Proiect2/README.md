@@ -58,3 +58,9 @@ Then we will have a new transition from the state *p* to the state *s* : the uni
 of the transactions tr(p,q), tr(q,q)* and tr(q,s)
 
 ## Exemples
+
+- Exemple 1
+<img src="https://github.com/PaulaB03/Limbaje-formale-si-automate/blob/master/Proiect2/Exemples/Exemple1.jpg">
+
+- Exemple 2
+<img src="https://github.com/PaulaB03/Limbaje-formale-si-automate/blob/master/Proiect2/Exemples/Exemple2.jpg">
