@@ -64,3 +64,6 @@ of the transactions tr(p,q), tr(q,q)* and tr(q,s)
 
 - Exemple 2
 <img src="https://github.com/PaulaB03/Limbaje-formale-si-automate/blob/master/Proiect2/Exemples/Exemple2.jpg">
+
+- Exemple 3
+<img src="https://github.com/PaulaB03/Limbaje-formale-si-automate/blob/master/Proiect2/Exemples/Exemple3.jpg">
