@@ -8,3 +8,6 @@ The forth line: &nbsp; &nbsp;&nbsp;   the number of production <br>
 The next n lines:&nbsp;  the productions => [symbol] [production] <br>
 The last line: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the string 
 
+## CYK Algorithm
+
+<img src="https://raw.githubusercontent.com/PaulaB03/Limbaje-formale-si-automate/master/Proiect3/CYK.gif">
