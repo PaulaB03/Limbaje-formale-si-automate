@@ -9,4 +9,4 @@ The laboratory projects from the university.
 
 - [X] Project 1: Building a DFA (Deterministic Finite Automata)
 - [X] Project 2: Finite Automata to Regular Expression
-- [ ] Project 3: TBA
+- [X] Project 3: CYK Algorithm
